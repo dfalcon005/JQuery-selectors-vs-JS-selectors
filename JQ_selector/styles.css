@@ -1,0 +1,24 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+.content{
+    max-width: 50vw;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+#seasonimg{
+    border-radius: 8px;
+    height: 50vh;
+    width: auto;
+}
+
+#seasons{
+    text-decoration: underline;
+}
+
+#h1{
+    font-size: 25px;
+}
